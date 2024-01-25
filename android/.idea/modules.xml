@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LAYOUTindex.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LAYOUTindex.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/511269787/LAYOUTindex.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/511269787/LAYOUTindex.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-770002154/LAYOUTindex.react-native-mmkv.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-770002154/LAYOUTindex.react-native-mmkv.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1467929183/LAYOUTindex.react-native-reanimated.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1467929183/LAYOUTindex.react-native-reanimated.main.iml" />
+    </modules>
+  </component>
+</project>
